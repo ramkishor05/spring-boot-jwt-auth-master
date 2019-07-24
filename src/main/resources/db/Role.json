@@ -1,0 +1,17 @@
+[
+	{
+		"name": "ROLE_ADMIN",
+		"description": "Admin Role",
+		"privileges": [
+			"WRITE",
+			"READ"
+		]
+	},
+	{
+		"name": "ROLE_USER",
+		"description": "User Role",
+		"privileges": [
+			"WRITE"
+		]
+	}
+]

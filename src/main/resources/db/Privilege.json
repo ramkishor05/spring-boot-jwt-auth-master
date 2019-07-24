@@ -1,0 +1,10 @@
+[
+	{
+		"name": "READ",
+		"description": "Read"
+	},
+	{
+		"name": "WRITE",
+		"description": "Write"
+	}
+]
